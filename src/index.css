@@ -1,0 +1,22 @@
+@import "tailwindcss";
+
+
+
+/* custom variables and small helpers */
+:root {
+  --primary-color: #137fec;
+}
+
+html, body, #root {
+  height: 100%;
+}
+
+/* basic container convenience */
+.container {
+  @apply mx-auto px-4 sm:px-6 lg:px-8;
+}
+
+/* small utility for card */
+.card {
+  @apply bg-white rounded-lg border border-slate-200;
+}

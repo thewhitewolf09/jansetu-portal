@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "title": "Road Closure on Main Street",
+    "date": "2025-09-20",
+    "body": "Main Street closed from Sep 20 to Sep 27 due to maintenance. Use alternate routes.",
+    "image": "roadClosed"
+  },
+  {
+    "id": 2,
+    "title": "Water Supply Disruption",
+    "date": "2025-09-15",
+    "body": "Planned water supply disruption in Zone B for pipeline repairs between 9:00 AM and 5:00 PM.",
+    "image": "waterSupply"
+  }
+]

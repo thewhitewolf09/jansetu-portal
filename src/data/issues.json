@@ -1,0 +1,23 @@
+[
+  {
+    "id": "#12345",
+    "type": "Pothole on Main Street",
+    "status": "In Progress",
+    "date": "2024-07-26",
+    "desc": "A large pothole at Main & Oak, approx 2ft wide."
+  },
+  {
+    "id": "#67890",
+    "type": "Streetlight Outage",
+    "status": "Resolved",
+    "date": "2024-07-20",
+    "desc": "Streetlight near 12th Ave replaced."
+  },
+  {
+    "id": "#11223",
+    "type": "Garbage Overflow",
+    "status": "Pending",
+    "date": "2024-07-15",
+    "desc": "Garbage not collected in Sector 5."
+  }
+]

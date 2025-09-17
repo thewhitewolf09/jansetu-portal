@@ -1,0 +1,14 @@
+[
+  {
+    "question": "How do I report a new issue?",
+    "answer": "Click on the 'Report an Issue' button on the homepage and fill the form with details, location and upload photos."
+  },
+  {
+    "question": "What kind of issues can I report?",
+    "answer": "You can report potholes, broken streetlights, water leaks, garbage collection issues, and public infrastructure damage."
+  },
+  {
+    "question": "How do I track the status of my report?",
+    "answer": "After submitting an issue you will receive a tracking ID. Use that ID on the Track Status page to view updates."
+  }
+]
