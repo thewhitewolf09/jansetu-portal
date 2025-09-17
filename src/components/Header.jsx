@@ -7,7 +7,7 @@ export default function Header() {
     <header className="sticky top-0 z-50 bg-white/90 backdrop-blur-sm border-b">
       <div className="container flex items-center justify-between h-16">
         <div className="flex items-center gap-3">
-          <span className="material-symbols-outlined text-3xl text-[var(--primary-color)]">account_balance</span>
+          {/* <span className="material-symbols-outlined text-3xl text-[var(--primary-color)]">account_balance</span> */}
           <Link to="/" className="text-xl font-bold text-slate-900">JanSetu</Link>
         </div>
 
