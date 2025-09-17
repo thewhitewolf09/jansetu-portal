@@ -9,7 +9,7 @@ const imageMap = {
 };
 
 
-export default function Announcements() {
+export default function Announcements(){
   return (
     <section className="py-12">
       <div className="container">
